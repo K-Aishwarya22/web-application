@@ -1,0 +1,9 @@
+h1{
+    color: darkmagenta;
+}
+table{
+    background-color: lightblue;
+}
+h1{
+    background-clip: border-box;
+}
